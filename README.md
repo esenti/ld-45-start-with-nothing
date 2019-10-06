@@ -1,3 +1,3 @@
 # LD45 - Start with nothing
 
-WASD to move, space (or B) to shoot.
+A/D to move, space (or B) to shoot.
